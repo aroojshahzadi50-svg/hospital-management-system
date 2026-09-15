@@ -105,7 +105,7 @@ Admins can manage doctors and patients via the numbered menu (add, view, update,
 
 ## Acknowledgment
 
-Developed as an Informatics Practices project under the guidance of Ms. Swapna Pradeep, Oasis International School, Al Ain.
+Developed as an Informatics Practices project 
 
 ## License
 
